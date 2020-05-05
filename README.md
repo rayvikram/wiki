@@ -105,7 +105,7 @@
 # aws
 - https://www.quora.com/What-is-cheaper-running-my-MySQL-database-in-an-EC2-or-using-RDS
 - http://www.littlebigextra.com/map-domain-name-amazon-aws-ec2-instance/
-
+- https://medium.com/@kei178/how-to-make-ec2-ubuntu-nginx-passenger-https-with-lets-encrypt-dcb08c2e6c4b
 
 # free-tutorials
 - react and django tutorial - https://www.youtube.com/playlist?list=PLLRM7ROnmA9FxCtnLoIHAs6hIkJyd1dEx
