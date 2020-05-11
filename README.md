@@ -82,7 +82,7 @@
 # linux
 - server monitoring - https://www.netdata.cloud/
 - Tracking down where disk space has gone on Linux? - du -ch --max-depth=2 .
-
+- https://askubuntu.com/questions/86849/how-to-unzip-a-zip-file-from-the-terminal
 ## stackoverflow
 - https://stackoverflow.com/questions/24718706/backup-restore-a-dockerized-postgresql-database
 - https://stackoverflow.com/questions/18089525/nginx-sites-enabled-sites-available-cannot-create-soft-link-between-config-fil
