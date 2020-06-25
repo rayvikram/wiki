@@ -59,6 +59,7 @@
 - https://stackoverflow.com/questions/1785503/when-should-i-use-uuid-uuid1-vs-uuid-uuid4-in-python
 - https://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list
 - https://stackoverflow.com/questions/8685790/adding-header-to-python-requests-module
+- conda create -n your_env_name python=3.5.4 (to create a env with miniconda)
 
 
 ## blogpost
