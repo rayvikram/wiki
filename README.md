@@ -19,7 +19,8 @@
 - https://hackr.io/blog/react-interview-questions
 - https://medium.com/@mjberman024/embedding-a-code-editor-in-your-website-using-react-ace-42e64a58507
 
-# django
+# django 
+- Must Read https://docs.djangoproject.com/en/3.0/contents/
 - https://docs.djangoproject.com/en/3.0/ref/models/fields/
 - https://docs.djangoproject.com/en/3.0/ref/models/querysets/
 - https://docs.djangoproject.com/en/3.0/topics/db/optimization/
