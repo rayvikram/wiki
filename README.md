@@ -4,6 +4,8 @@
 - https://stackoverflow.com/questions/55840294/how-to-fix-missing-dependency-warning-when-using-useeffect-react-hook
 
 ## library
+- https://github.com/arasatasaygin/is.js
+- https://github.com/streamich/react-use
 - https://material-ui.com/
 - https://www.npmjs.com/package/react-spinners
 - https://www.npmjs.com/package/draft-js
