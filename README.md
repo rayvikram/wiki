@@ -64,6 +64,7 @@
 - https://stackoverflow.com/questions/8685790/adding-header-to-python-requests-module
 - conda create -n your_env_name python=3.5.4 (to create a env with miniconda)
 - https://stackoverflow.com/questions/3453085/what-is-double-colon-in-python-when-subscripting-sequences
+- https://realpython.com/python-defaultdict/
 
 ## blogpost
 - https://www.w3schools.com/python/ref_requests_response.asp
