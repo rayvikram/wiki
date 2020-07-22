@@ -114,3 +114,6 @@
 # free-tutorials
 - react and django tutorial - https://www.youtube.com/playlist?list=PLLRM7ROnmA9FxCtnLoIHAs6hIkJyd1dEx
 - Docker and online docker environment - https://kodekloud.com/p/docker-labs
+
+# free-services or tools
+- free static website hosting - https://surge.sh/
