@@ -94,7 +94,9 @@
 
 ### commands
 - https://geekflare.com/curl-command-usage-with-example/
-
+- https://stackoverflow.com/questions/39322089/node-js-port-3000-already-in-use-but-it-actually-isnt
+- lsof -i tcp:3000 , killall -9 node
+- https://www.tutorialspoint.com/unix_commands/tailf.htm
 
 # important blogpost
 - https://www.digitalocean.com/community/questions/configure-nginx-for-nodejs-backend-and-react-frontend-app
@@ -112,6 +114,7 @@
 - http://www.littlebigextra.com/map-domain-name-amazon-aws-ec2-instance/
 - https://medium.com/@kei178/how-to-make-ec2-ubuntu-nginx-passenger-https-with-lets-encrypt-dcb08c2e6c4b
 - https://stackoverflow.com/questions/58059924/how-to-transfer-zip-file-to-aws-ec2-from-local-machine
+
 # free-tutorials
 - react and django tutorial - https://www.youtube.com/playlist?list=PLLRM7ROnmA9FxCtnLoIHAs6hIkJyd1dEx
 - Docker and online docker environment - https://kodekloud.com/p/docker-labs
