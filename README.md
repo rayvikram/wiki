@@ -1,9 +1,9 @@
 - must read for developers. Please * if found useful -
 # react
-* stackoverflow
+### stackoverflow
 - https://stackoverflow.com/questions/55840294/how-to-fix-missing-dependency-warning-when-using-useeffect-react-hook
 
-* library
+### library
 - https://github.com/arasatasaygin/is.js
 - https://github.com/streamich/react-use
 - https://material-ui.com/
@@ -13,7 +13,7 @@
 - https://www.npmjs.com/package/react-phone-input-2
 - http://securingsincity.github.io/react-ace/
 
-## blogpost
+### blogpost
 - https://medium.com/@vigowebs/frequently-asked-react-js-interview-questions-and-answers-36f3dd99f486
 - https://www.edureka.co/blog/interview-questions/react-interview-questions/
 - https://www.toptal.com/react/interview-questions
@@ -29,7 +29,7 @@
 - https://django-tenant-schemas.readthedocs.io/en/latest/templates.html
 - django template verifier - https://cryptic-cliffs-32040.herokuapp.com/
 
-## stackoverflow
+### stackoverflow
 - https://stackoverflow.com/questions/17328910/django-what-is-reverse-relationship
 - https://tldlife.com/safely-removing-a-django-app-17bdb2803200
 - https://stackoverflow.com/questions/43064417/whats-the-differences-between-has-object-permission-and-has-permission-in-drfp
@@ -43,7 +43,7 @@
 - https://stackoverflow.com/questions/1387727/checking-for-empty-queryset-in-django
 - https://stackoverflow.com/questions/19130942/whats-the-best-way-to-store-phone-number-in-django-models
 
-## blogpost
+### blogpost
 - https://hakibenita.com/django-rest-framework-slow
 - https://simpleisbetterthancomplex.com/tutorial/2017/08/01/how-to-setup-amazon-s3-in-a-django-project.html
 - https://docs.aws.amazon.com/sns/latest/dg/sms_publish-to-phone.html
@@ -58,7 +58,7 @@
 
 
 # python
-## stackoverflow
+### stackoverflow
 - https://stackoverflow.com/questions/1785503/when-should-i-use-uuid-uuid1-vs-uuid-uuid4-in-python
 - https://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list
 - https://stackoverflow.com/questions/8685790/adding-header-to-python-requests-module
@@ -66,11 +66,11 @@
 - https://stackoverflow.com/questions/3453085/what-is-double-colon-in-python-when-subscripting-sequences
 - https://realpython.com/python-defaultdict/
 
-## blogpost
+### blogpost
 - https://www.w3schools.com/python/ref_requests_response.asp
 
 
-## important topics
+### important topics
 - https://www.programiz.com/python-programming/exception-handling
 - https://realpython.com/tutorials/tools/
 
@@ -88,11 +88,11 @@
 - server monitoring - https://www.netdata.cloud/
 - Tracking down where disk space has gone on Linux? - du -ch --max-depth=2 .
 - https://askubuntu.com/questions/86849/how-to-unzip-a-zip-file-from-the-terminal
-## stackoverflow
+### stackoverflow
 - https://stackoverflow.com/questions/24718706/backup-restore-a-dockerized-postgresql-database
 - https://stackoverflow.com/questions/18089525/nginx-sites-enabled-sites-available-cannot-create-soft-link-between-config-fil
 
-## commands
+### commands
 - https://geekflare.com/curl-command-usage-with-example/
 
 
