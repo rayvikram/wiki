@@ -31,7 +31,7 @@
 
 ## stackoverflow
 - https://stackoverflow.com/questions/17328910/django-what-is-reverse-relationship
-- https://stackoverflow.com/questions/17328910/django-what-is-reverse-relationship
+- https://tldlife.com/safely-removing-a-django-app-17bdb2803200
 - https://stackoverflow.com/questions/43064417/whats-the-differences-between-has-object-permission-and-has-permission-in-drfp
 - https://stackoverflow.com/questions/38845051/how-to-update-user-password-in-django-rest-framework
 - https://stackoverflow.com/questions/31324005/django-1-8-sending-mail-using-gmail-smtp
