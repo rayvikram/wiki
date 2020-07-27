@@ -120,4 +120,5 @@
 - Docker and online docker environment - https://kodekloud.com/p/docker-labs
 
 # free-services or tools
-- free static website hosting - https://surge.sh/
+- free static website hosting - https://surge.sh/ , https://www.netlify.com/
+
