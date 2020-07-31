@@ -23,6 +23,7 @@
 
 # django 
 - Must Read https://docs.djangoproject.com/en/3.0/contents/
+- https://stackoverflow.com/questions/tagged/django?tab=votes&pagesize=50
 - https://docs.djangoproject.com/en/3.0/ref/models/fields/
 - https://docs.djangoproject.com/en/3.0/ref/models/querysets/
 - https://docs.djangoproject.com/en/3.0/topics/db/optimization/
