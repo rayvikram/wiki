@@ -22,6 +22,7 @@
 - https://medium.com/@mjberman024/embedding-a-code-editor-in-your-website-using-react-ace-42e64a58507
 
 # django 
+- https://github.com/rayvikram/django-cheat-sheet (cheatsheet)
 - Must Read https://docs.djangoproject.com/en/3.0/contents/
 - https://stackoverflow.com/questions/tagged/django?tab=votes&pagesize=50
 - https://docs.djangoproject.com/en/3.0/ref/models/fields/
