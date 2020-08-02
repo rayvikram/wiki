@@ -1,4 +1,6 @@
 - must read for developers. Please * if found useful -
+## [VIEW CHEATSHEET](https://github.com/rayvikram/cheatsheets)
+
 # react
 ### stackoverflow
 - https://stackoverflow.com/questions/55840294/how-to-fix-missing-dependency-warning-when-using-useeffect-react-hook
