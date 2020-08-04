@@ -125,6 +125,7 @@
 # free-tutorials
 - react and django tutorial - https://www.youtube.com/playlist?list=PLLRM7ROnmA9FxCtnLoIHAs6hIkJyd1dEx
 - Docker and online docker environment - https://kodekloud.com/p/docker-labs
+- Markdown templates - https://www.markdownguide.org/basic-syntax/
 
 # free-services or tools
 - free static website hosting - https://surge.sh/ , https://www.netlify.com/
