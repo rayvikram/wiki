@@ -2,6 +2,8 @@
 ## [VIEW CHEATSHEET](https://github.com/rayvikram/cheatsheets)
 
 # react
+- npx create-react-app my-app --template redux ( to initiate a react-redux template )
+
 ### stackoverflow
 - https://stackoverflow.com/questions/55840294/how-to-fix-missing-dependency-warning-when-using-useeffect-react-hook
 
