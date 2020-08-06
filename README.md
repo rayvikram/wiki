@@ -3,7 +3,7 @@
 
 # react
 - npx create-react-app my-app --template redux ( to initiate a react-redux template )
-
+- https://www.pluralsight.com/guides/how-to-create-react-application-and-deploy-on-github-pages 
 ### stackoverflow
 - https://stackoverflow.com/questions/55840294/how-to-fix-missing-dependency-warning-when-using-useeffect-react-hook
 
