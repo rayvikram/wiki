@@ -131,6 +131,7 @@
 
 # free-services or tools
 - free static website hosting - https://surge.sh/ , https://www.netlify.com/
+- resume template - https://github.com/saadpasta/developerFolio
 
 # Extra api
 - https://stackoverflow.com/questions/8713596/how-to-retrieve-the-list-of-all-github-repositories-of-a-person
