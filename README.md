@@ -65,6 +65,7 @@
 
 
 # python
+- pylint foldername/ --max-line-length=240
 ### stackoverflow
 - https://stackoverflow.com/questions/1785503/when-should-i-use-uuid-uuid1-vs-uuid-uuid4-in-python
 - https://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list
