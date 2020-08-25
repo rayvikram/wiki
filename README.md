@@ -26,6 +26,7 @@
 - https://medium.com/@mjberman024/embedding-a-code-editor-in-your-website-using-react-ace-42e64a58507
 
 # django 
+-  DJANGO_SETTINGS_MODULE=yourproj.settings pylint --load-plugins pylint_django --max-line-length=125 --disable=broad-except ./apps
 - https://github.com/rayvikram/django-cheat-sheet (cheatsheet)
 - Must Read https://docs.djangoproject.com/en/3.0/contents/
 - https://stackoverflow.com/questions/tagged/django?tab=votes&pagesize=50
