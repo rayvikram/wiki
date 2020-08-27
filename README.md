@@ -99,7 +99,7 @@
 - https://askubuntu.com/questions/86849/how-to-unzip-a-zip-file-from-the-terminal
 - service --status-all - to list down all services 
 - sudo /usr/pgadmin4/bin/setup-web.sh - to start pgadmin in localhost
-
+- https://www.cyberciti.biz/faq/star-stop-restart-apache2-webserver/ 
 
 ### stackoverflow
 - https://stackoverflow.com/questions/24718706/backup-restore-a-dockerized-postgresql-database
