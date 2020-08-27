@@ -98,6 +98,8 @@
 - Tracking down where disk space has gone on Linux? - du -ch --max-depth=2 .
 - https://askubuntu.com/questions/86849/how-to-unzip-a-zip-file-from-the-terminal
 - service --status-all - to list down all services 
+- sudo /usr/pgadmin4/bin/setup-web.sh - to start pgadmin in localhost
+
 
 ### stackoverflow
 - https://stackoverflow.com/questions/24718706/backup-restore-a-dockerized-postgresql-database
