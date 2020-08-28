@@ -140,3 +140,7 @@
 # Extra api
 - https://stackoverflow.com/questions/8713596/how-to-retrieve-the-list-of-all-github-repositories-of-a-person
 - https://developer.github.com/v3/repos/#list-repositories-for-a-user
+
+# git
+- git diff HEAD
+
