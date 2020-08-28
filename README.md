@@ -142,5 +142,5 @@
 - https://developer.github.com/v3/repos/#list-repositories-for-a-user
 
 # git
-- git diff HEAD
+- git diff HEAD - difference between current changes and last changes 
 
