@@ -6,6 +6,7 @@
 - https://www.pluralsight.com/guides/how-to-create-react-application-and-deploy-on-github-pages 
 ### stackoverflow
 - https://stackoverflow.com/questions/55840294/how-to-fix-missing-dependency-warning-when-using-useeffect-react-hook
+- https://stackoverflow.com/questions/53396307/how-do-i-use-external-script-that-i-add-to-react-js
 
 ### library
 - https://github.com/arasatasaygin/is.js
