@@ -36,7 +36,7 @@
 - https://docs.djangoproject.com/en/3.0/topics/db/optimization/
 - https://django-tenant-schemas.readthedocs.io/en/latest/templates.html
 - django template verifier - https://cryptic-cliffs-32040.herokuapp.com/
-
+- https://stackoverflow.com/questions/3329773/django-how-to-completely-uninstall-a-django-app#:~:text=To%20remove%20the%20app%20from,your%20PYTHONPATH%20where%20it%20resides.
 ### stackoverflow
 - https://stackoverflow.com/questions/17328910/django-what-is-reverse-relationship
 - https://tldlife.com/safely-removing-a-django-app-17bdb2803200
