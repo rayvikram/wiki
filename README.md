@@ -115,6 +115,7 @@
 - https://stackoverflow.com/questions/39322089/node-js-port-3000-already-in-use-but-it-actually-isnt
 - lsof -i tcp:3000 , killall -9 node
 - https://www.tutorialspoint.com/unix_commands/tailf.htm
+- redis-cli -n 1 -h localhost -p 6379 llen celery - to view the remaining tasks in redis queue in django-celery
 
 # important blogpost
 - https://www.digitalocean.com/community/questions/configure-nginx-for-nodejs-backend-and-react-frontend-app
