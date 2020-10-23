@@ -152,3 +152,4 @@
 - git diff HEAD - difference between current changes and last changes 
 - git branch | grep -v "master" | xargs git branch -D - Delete all branch except master
 - git log --pretty=format:"%h %an %ar - %s" -  to view commits in one line
+- The command git pull is a combination of two different commands, git fetch and git merge.
