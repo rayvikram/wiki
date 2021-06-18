@@ -1,6 +1,21 @@
 - must read for developers. Please * if found useful -
 ## [VIEW CHEATSHEET](https://github.com/rayvikram/cheatsheets)
 
+# repo
+
+<h3> 🤝🏻 &nbsp;My Wiki 🏻 &nbsp;</h3>
+
+<p align="center">
+  <a href="https://github.com/rayvikram/nextjs-eg">NextJs Wiki</a>
+  <a href="https://github.com/rayvikram/React-Native-Random-Image-App">React Native Wiki</a>
+  <a href="https://github.com/rayvikram/docker-course">Docker Wiki</a>
+  <a href="https://github.com/rayvikram/react-hub">React Wiki</a>
+  <a href="https://github.com/rayvikram/pyfree">Pypi Package Wiki</a> 
+  <a href="https://github.com/rayvikram/graphQL-django">GraphQL Django Wiki</a>  
+  <a href="https://github.com/rayvikram/react-hub">React Wiki</a>
+  <a href="https://github.com/rayvikram/react-hub">React Wiki</a>
+</p>
+
 # react
 - npx create-react-app my-app --template redux ( to initiate a react-redux template )
 - https://www.pluralsight.com/guides/how-to-create-react-application-and-deploy-on-github-pages  - Host react-js app on github
